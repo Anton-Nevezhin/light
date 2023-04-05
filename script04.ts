@@ -9,6 +9,7 @@ let e4: number = a4 as number
 type I4 = number | string
 let k4: I4 = 2
 k4 = 'Hello'
+k4 = 'Привет!'
 //k4 = true //Ошибка
 
 type J4 = 1 | 2 | 3
