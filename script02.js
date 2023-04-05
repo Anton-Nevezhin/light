@@ -15,4 +15,5 @@ g = {};
 let h; //Можно указать явно
 g = 2;
 g = 3;
+g = 'aи';
 //# sourceMappingURL=script02.js.map
